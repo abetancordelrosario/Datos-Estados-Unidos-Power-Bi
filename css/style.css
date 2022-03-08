@@ -1,0 +1,25 @@
+header {
+    background-color: darkslategray;
+}
+
+h1 {
+    color: aliceblue;
+}
+
+.row {
+    margin-top: 5em !important;
+}
+
+html, body {
+    background-color: aliceblue !important;
+}
+
+p {
+    font-weight: bold;
+    font-size: large;
+    text-justify: auto;
+}
+
+.autor {
+    margin-top: 10em;
+}
